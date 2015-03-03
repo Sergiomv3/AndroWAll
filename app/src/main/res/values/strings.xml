@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroWall!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_juego">AndroWall!</string>
+</resources>
